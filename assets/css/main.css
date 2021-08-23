@@ -154,6 +154,14 @@ footer .fa-2x {
     main #group-cards {
         flex-direction: column !important;
         align-items: center !important;
+        flex-wrap: nowrap !important;
     }
     
+    main #group-cards #group-card {
+        width: 100% !important;
+    }
+
+    main #group-cards #group-card .content {
+        padding: 0 !important;
+    }
 }
