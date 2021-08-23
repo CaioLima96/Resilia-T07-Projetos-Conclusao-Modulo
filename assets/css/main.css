@@ -147,3 +147,13 @@ footer a:first-child {
 footer .fa-2x {
     font-size: 1.75rem;
 }
+
+
+@media (max-width: 760px) {
+
+    main #group-cards {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    
+}
