@@ -131,8 +131,7 @@ footer {
 
     max-width: 575px;
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 2rem;
 
     background-color: #dc387063;
     border-bottom-right-radius: 0.313rem;
